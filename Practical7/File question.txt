@@ -1,0 +1,5 @@
+Create a plot of China new cases and China new deaths.
+
+29-32
+
+It is what I expected, the new cases are far more than new deaths. In general, new cases and new deaths have positive correlation. 
