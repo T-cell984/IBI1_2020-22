@@ -25,14 +25,12 @@ plt.plot(A,B,'r-')
 plt.ylabel('world new deaths')
 plt.xlabel('world new cases')
 plt.show()
-
 C=pd.read_csv("China_new_cases.csv")
 D=pd.read_csv("China_new_deaths.csv")
-plt.plot(C,D,'b+')
 plt.ylabel('China new deaths')
 plt.xlabel('China new cases')
+plt.plot(C,D,'b+')
 plt.show()
-#to show China new cases and new deaths
 
 
 

@@ -1,5 +1,6 @@
 Create a plot of China new cases and China new deaths.
 
-29-32
+28-33
 
-It is what I expected, the new cases are far more than new deaths. In general, new cases and new deaths have positive correlation. 
+It is what I expected, the new cases are far more than new deaths because there's a certain latent time for COVID-19 to cause people death.
+In general, new cases and new deaths have positive correlation. 
