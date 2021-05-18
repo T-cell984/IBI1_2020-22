@@ -12,4 +12,5 @@ plt.pie(sizes,explode=explode,labels=labels,autopct='%1.1f%%',
 		shadow=False,startangle=90)
 plt.axis('equal')
 # Equal aspect ratio ensures that pie is drawn as a circle
+plt.title('The proportion of infections come from five countries on 11/3/21')
 plt.show()
