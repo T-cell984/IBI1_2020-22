@@ -13,6 +13,7 @@ def reverse(complement):
 	return complement[::-1]
 
 DNA=('ATCGTCGCGG')
+#to give an example
 com=complement(DNA)
 rev=reverse(com)
 print(rev)
