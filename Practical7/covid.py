@@ -33,7 +33,7 @@ plt.ylabel('world new deaths')
 plt.xlabel('world new cases')
 plt.title('New cases vs new deaths worldwide')
 plt.show()
-#this is a figure which plot both new cases and new deaths worldwide
+#this is a figure which plots both new cases and new deaths worldwide
 
 C=pd.read_csv("China_new_cases.csv")
 D=pd.read_csv("China_new_deaths.csv")
