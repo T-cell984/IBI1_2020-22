@@ -1,0 +1,12 @@
+the alignment score:
+human-mouse:1091
+human-random:-250
+mouse-random:-250
+
+the percentage of identical amino acids:
+human-mouse:89.64%
+human-random:5.41%
+mouse-random:5.86%
+
+Human-mouse group has a positive score which means that their amino acids are more similar and closed than the other groups which have negative scores.
+Also, the higher percentage of identical amino acids of human-mouse show the similarity genetically. 
