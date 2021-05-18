@@ -15,7 +15,7 @@ p=False
 while p==False:
 	p = True
 	n = randint(1,100)
-	if n > 50:
+	if n >= 50:
 		p = False
-
+#if n is a randint which is larger than 50 or equals to 50, then it will select another n until n < 50
 print(n)
